@@ -1,6 +1,4 @@
 #include "shell.h"
-#include "alx.h"
-
 /**
  * copy_info - copies info to create
  * a new env or alias
